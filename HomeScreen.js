@@ -1,1 +1,1 @@
-// Home screen component
+// HomeScreen.js with tropical music

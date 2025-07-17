@@ -1,1 +1,1 @@
-// App main entry point
+// App.js with audio integration

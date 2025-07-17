@@ -1,1 +1,1 @@
-// Game screen component
+// GameScreen.js with sound effects
